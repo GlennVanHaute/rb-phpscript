@@ -1,3 +1,1 @@
-rb-phpscript
-
-test
+# rb-phpscript in php
